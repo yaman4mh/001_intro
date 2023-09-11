@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         btn=findViewById(R.id.main_btnSetText);
         etUN.setText("Test UserName");
         etPass.setText("Test Password");
+        etUN.setText("hhhhhhh");
     }
 }
